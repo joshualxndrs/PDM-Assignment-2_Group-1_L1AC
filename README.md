@@ -1,6 +1,6 @@
 # PDM-Assignment-2_Group-2_L1AC
-<br>
-<br>
-Group Leader: Maria Clarin
-<br>
-Members: JoPras, Joshua Alexander, Reynard Timotius, Hansel Faren
+* Hansel Faren (2501990350)
+* Jonathan Hermawan Prasetyo (2501982613)
+* Joshua Alexander Silalahi (2502005244)
+* Maria Clarin (2501990331)
+* Reynard Timotius (2501963261)
