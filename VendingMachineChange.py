@@ -13,7 +13,7 @@ give = float(input("Type Amount given: "))
 while cost <= 0:
     cost = float(input("Drink cost should be more than 0: "))
 
-while give <= cost or give <= 0:
+while give < cost or give <= 0:
     give = float(input("Amount paid should be equal or more than cost: "))
 
 print("----------------------------------------------")
