@@ -1,3 +1,4 @@
+##PRICE AS CODE##
 print("-PRICE LIST-")
 print("Pepsi Medium = $2.25")
 print("Coke Medium = $1.75")
